@@ -1,31 +1,25 @@
 {
   "Header": {
     "title": "Om Jana makes!",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "Om Jana makes is a small business that makes and sells crochet items. We make everything from baby blankets to adult scarves. We also make custom orders. We are located in the heart of the city and have been in business for over 10 years. We are a family owned business and take pride in our work"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "I'm a mother of 3 and have been crocheting for over 20 years. I have only started to sell my items in the last 10 years. I started selling my items at local craft fairs and then started to sell online. I have been selling online for over 5 years now. I love to crochet and I love to make people happy with my items. I take pride in my work and I hope you love my items as much as I do.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "To share a piece of my heart",
+      "To share my passion",
+      "To make people happy",
+      "To make a difference"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Bags",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Scarves",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
